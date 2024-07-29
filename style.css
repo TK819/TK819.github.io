@@ -1,0 +1,41 @@
+#Netflix_logo{
+  width:50px;
+}
+
+.navbar-dark .nav-item .nav-link {
+  color: #fff;
+}
+
+.navbar-dark .nav-item .nav-link:hover {
+  background-color: rgba(255, 255, 255, 0.1);
+  transition: all 0.3s ease;
+  border-radius: 0.25rem;
+  color: #fff;
+}
+
+.fa-li {
+  position: relative;
+  left: 0;
+}
+html { 
+  background-color:black;
+}
+
+img{
+  margin:0px;
+}
+p{
+  margin:0px;
+}
+
+body{
+  background-color: black;
+}
+#suits{
+  width:15%;
+}
+table{
+  color:black}
+
+
+    
