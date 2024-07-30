@@ -13,10 +13,7 @@
   color: #fff;
 }
 
-.fa-li {
-  position: relative;
-  left: 0;
-}
+
 html { 
   background-color:black;
 }
@@ -30,12 +27,17 @@ p{
 
 body{
   background-color: black;
+  
 }
 #suits{
   width:15%;
+  
 }
-table{
-  color:black}
+table{background-color:black;
+     color:white}
+
+border{color:black}
+
 
 
     
